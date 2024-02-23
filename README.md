@@ -23,7 +23,7 @@ R = { +1 , if the snake eats the apple
        0 , otherwise
 
 ### Graphical Representation
-![WhatsApp Image 2023-09-11 at 08 19 41](https://github.com/KeerthikaNagarajan/mdp-representation/assets/93427089/ad75129c-91bf-4750-a736-81ad3ddb6952)
+![graphical](https://github.com/saieswar1607/mdp-representation/assets/93427011/deee3fd9-11cc-4e6a-b71a-930c2f0f6998)
 
 
 ## PYTHON REPRESENTATION:
@@ -88,7 +88,7 @@ P={
 ```
 
 ## OUTPUT:
-![266676221-c784b237-419b-4e3f-b7b0-3d5affa10f32](https://github.com/KeerthikaNagarajan/mdp-representation/assets/93427089/b82ccb0a-06d8-41ec-8315-06e1e4bcb903)
+![output](https://github.com/saieswar1607/mdp-representation/assets/93427011/2f5cebbb-88b9-462f-a161-4f768aadbb7b)
 
 
 ## RESULT:
