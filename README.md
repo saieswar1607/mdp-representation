@@ -27,6 +27,10 @@ R = { +1 , if the snake eats the apple
 
 
 ## PYTHON REPRESENTATION:
+```
+Developed By: Sai Eswar Kandukuri
+Reg. No: 212221240020
+```
 ```python
 # Creating Dictionary
 P={
