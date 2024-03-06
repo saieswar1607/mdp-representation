@@ -24,7 +24,7 @@ R = { +1 , if the snake eats the apple<br>
        0 , otherwise
 
 ### Graphical Representation
-![graphical](https://github.com/saieswar1607/mdp-representation/assets/93427011/deee3fd9-11cc-4e6a-b71a-930c2f0f6998)
+![graphical](https://github.com/saieswar1607/mdp-representation/assets/93427011/ca1a7378-fdf0-47d8-ba97-ccc1324e98c2)
 
 
 ## PYTHON REPRESENTATION:
