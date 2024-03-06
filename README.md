@@ -16,7 +16,7 @@ Move the snake 🐍 to reach the apple 🍏, which is the goal in a 3*3 grid.
 {Up[0],Down[1],Left[2],Right[3]}
 
 ### Sample Action
-Down[1]
+Down[1],<br>
 Probability: 0.333 to 3 , 0.333 to 0 , 0.333 to 1
 
 ### Reward Function
