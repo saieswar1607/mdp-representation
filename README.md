@@ -10,16 +10,17 @@ Move the snake 🐍 to reach the apple 🍏, which is the goal in a 3*3 grid.
 {0,1,2,3,4,5,6,7,8} 
 
 ### Sample State
-2
+0
 
 ### Action Space
 {Up[0],Down[1],Left[2],Right[3]}
 
 ### Sample Action
 Down[1]
+Probability: 0.333 to 3 , 0.333 to 0 , 0.333 to 1
 
 ### Reward Function
-R = { +1 , if the snake eats the apple
+R = { +1 , if the snake eats the apple<br>
        0 , otherwise
 
 ### Graphical Representation
